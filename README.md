@@ -83,7 +83,7 @@ uniText.Text = "👨‍👩‍👧‍👦🇯🇵";                    // Emoji
 
 ## License
 
-UniText 1.0 is free and open-source under the [MIT License](LICENSE.md).
+UniText 1.0 is free and open-source under the [License](LICENSE.md).
 
 > [!TIP]
 > **Contact: unity@lightside.media** — questions, feedback, commercial inquiries.
